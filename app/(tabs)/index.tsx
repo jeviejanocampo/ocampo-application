@@ -21,6 +21,7 @@ export default function HomeScreen() {
         <ThemedText type="title">Welcome to my expo!</ThemedText>
         <ThemedText type="title">Hi my name is ocampo</ThemedText>
           <ThemedText type="title">Im adding a text here</ThemedText>
+          <ThemedText type="title">Wow Ni add kog header text diri</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
