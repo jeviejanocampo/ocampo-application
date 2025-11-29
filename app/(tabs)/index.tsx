@@ -20,6 +20,7 @@ export default function HomeScreen() {
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">Welcome to my expo!</ThemedText>
         <ThemedText type="title">Hi my name is ocampo</ThemedText>
+          <ThemedText type="title">Im adding a text here</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
